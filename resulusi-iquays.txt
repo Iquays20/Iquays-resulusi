@@ -1,3 +1,4 @@
 Resulusi
 -konsisten untuk membuat konten
 -Membuat forum diskusi
+-saya ingin menjadi backend
